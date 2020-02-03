@@ -10,3 +10,4 @@
 * gradle 4.10.1
 * 서버 : AWS EC2
 * DB : AWS RDS(Oracle) 
+* issue관리 : zenHub
