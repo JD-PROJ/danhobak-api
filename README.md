@@ -6,8 +6,8 @@
 
 
 ## 개발환경
-* SpringBoot 2.2.3
+* SpringBoot 2.1.7
 * gradle 4.10.1
 * 서버 : AWS EC2
 * DB : AWS RDS(Oracle) 
-* issue관리 : zenHub
+* Issue관리 : zenHub
