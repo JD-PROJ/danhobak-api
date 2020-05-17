@@ -22,3 +22,4 @@
 ### NetBeans ###
 nbproject/private/
 build/
+application-oauth.properties
